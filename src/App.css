@@ -3,21 +3,21 @@
 }
 
 .App-logo {
-  /* animation: App-logo-spin infinite 20s linear; */
+  animation: App-logo-spin infinite 20s linear;
   height: 300px;
 }
 
 .App-header {
   background-color: white;
-  height: 300px;
+  height: 350px;
   padding: 20px;
   color: white;
-  margin-top: 100px
+  margin-top: 100px;
 }
 
-.App-title {
+/* .App-title {
   font-size: 1.5em;
-}
+} */
 
 .App-intro {
   font-size: large;
